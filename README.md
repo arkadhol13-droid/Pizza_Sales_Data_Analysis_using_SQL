@@ -58,3 +58,4 @@ Some important insights obtained from the analysis:
 - SQL Workbench / MySQL Workbench
 - Data Analysis
 
+##  Project link : https://github.com/arkadhol13-droid/Pizza_Sales_Data_Analysis_using_SQL/blob/main/SQL%20Pizza%20Sales/SQL_Workbook/pizza_sales.sql
